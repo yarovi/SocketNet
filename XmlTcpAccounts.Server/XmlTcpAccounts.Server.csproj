@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>dotnet-XmlTcpAccounts.Server-d61d06d1-5061-4e45-a596-3a897bf1416f</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.12"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\XmlTcpAccounts.Application\XmlTcpAccounts.Application.csproj" />
+      <ProjectReference Include="..\XmlTcpAccounts.Infrastructure\XmlTcpAccounts.Infrastructure.csproj" />
+    </ItemGroup>
+</Project>

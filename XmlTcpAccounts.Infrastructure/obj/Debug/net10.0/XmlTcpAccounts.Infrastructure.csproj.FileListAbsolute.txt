@@ -1,0 +1,17 @@
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/bin/Debug/net10.0/XmlTcpAccounts.Infrastructure.deps.json
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/bin/Debug/net10.0/XmlTcpAccounts.Infrastructure.dll
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/bin/Debug/net10.0/XmlTcpAccounts.Infrastructure.pdb
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/obj/Debug/net10.0/XmlTcpAccounts.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/obj/Debug/net10.0/XmlTcpAccounts.Infrastructure.AssemblyInfoInputs.cache
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/obj/Debug/net10.0/XmlTcpAccounts.Infrastructure.AssemblyInfo.cs
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/obj/Debug/net10.0/XmlTcpAccounts.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/obj/Debug/net10.0/XmlTcpAccounts.Infrastructure.dll
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/obj/Debug/net10.0/refint/XmlTcpAccounts.Infrastructure.dll
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/obj/Debug/net10.0/XmlTcpAccounts.Infrastructure.pdb
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/obj/Debug/net10.0/ref/XmlTcpAccounts.Infrastructure.dll
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/bin/Debug/net10.0/XmlTcpAccounts.Application.dll
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/bin/Debug/net10.0/XmlTcpAccounts.Domain.dll
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/bin/Debug/net10.0/XmlTcpAccounts.Application.pdb
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/bin/Debug/net10.0/XmlTcpAccounts.Domain.pdb
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/obj/Debug/net10.0/XmlTcpAccounts.Infrastructure.csproj.AssemblyReference.cache
+/Users/yasmanirosado/Documents/dev/net/XmlTcpAccountsLab/XmlTcpAccounts.Infrastructure/obj/Debug/net10.0/XmlTcpAc.402B43F7.Up2Date
