@@ -5,7 +5,8 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "environmentVariables": {
-        "DOTNET_ENVIRONMENT": "Development"
+        "DOTNET_ENVIRONMENT": "Development",
+        "ConnectionStrings__AccountsDatabase": "Host=localhost;Port=5432;Database=xmltcp_accounts;Username=xmltcp_user;Password=local_dev_password"
       }
     }
   }

@@ -1,0 +1,32 @@
+# .NET - Compilación
+**/bin/
+**/obj/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Sistema operativo macOS
+.DS_Store
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Configuraciones locales sensibles
+**/appsettings.Local.json
+**/appsettings.*.local.json
+
+# Resultados de pruebas
+TestResults/
+coverage/
